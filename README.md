@@ -243,7 +243,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **Author:** Filip Misiak 
+
 **Email:** filip.misiak11@gmail.com
+
 **GitHub:** [@misiakfilip](https://github.com/misiakfilip)
 
 ---
@@ -258,10 +260,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/xai-fraud-detection?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/xai-fraud-detection?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/xai-fraud-detection)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/xai-fraud-detection)
+![GitHub stars](https://img.shields.io/github/stars/misiakfilip/xai-consistency-analysis?style=social)
+![GitHub forks](https://img.shields.io/github/forks/misiakfilip/xai-consistency-analysis?style=social)
+![GitHub issues](https://img.shields.io/github/issues/misiakfilip/xai-consistency-analysis)
+![GitHub last commit](https://img.shields.io/github/last-commit/misiakfilip/xai-consistency-analysis)
 
 ---
 
