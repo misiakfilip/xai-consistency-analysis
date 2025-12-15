@@ -148,9 +148,6 @@ python xai-consistency-analysis.py
 ```
 xai-consistency-analysis/
 │
-├── data/
-│   └── creditcard.csv           # Dataset (download separately)
-│
 ├── notebooks/
 │   └── xai-consistency-analysis.ipynb   # jupyter notebook
 │
